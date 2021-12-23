@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>brlab.ai</title>
+    <title>BRLab</title>
     <link>https://brlab.ai/</link>
-    <description>Recent content on brlab.ai</description>
+    <description>Recent content on BRLab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ko-kr</language><atom:link href="https://brlab.ai/index.xml" rel="self" type="application/rss+xml" />
+    <language>ko-KR</language>
+    <copyright>&lt;a href=&#34;mailto://contact@brlab.ai&#34; &gt;contact&lt;/a&gt;</copyright><atom:link href="https://brlab.ai/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
