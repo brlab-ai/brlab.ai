@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://brlab.ai/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://brlab.ai/ko/"
-                />
+    <loc>https://brlab.ai/ko/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://brlab.ai/"
                 />
-  </url><url>
-    <loc>https://brlab.ai/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://brlab.ai/ko/categories/"
+                href="https://brlab.ai/ko/"
                 />
+  </url><url>
+    <loc>https://brlab.ai/ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://brlab.ai/categories/"
                 />
-  </url><url>
-    <loc>https://brlab.ai/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://brlab.ai/ko/series/"
+                href="https://brlab.ai/ko/categories/"
                 />
+  </url><url>
+    <loc>https://brlab.ai/ko/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://brlab.ai/series/"
                 />
-  </url><url>
-    <loc>https://brlab.ai/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://brlab.ai/ko/tags/"
+                href="https://brlab.ai/ko/series/"
                 />
+  </url><url>
+    <loc>https://brlab.ai/ko/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://brlab.ai/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://brlab.ai/ko/tags/"
                 />
   </url>
 </urlset>
